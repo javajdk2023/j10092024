@@ -40,6 +40,12 @@ public class Aplicacao {
 			pstm.execute();
 		
 			
+			
+			///
+			
+			
+			
+			
 			myConnection.close();
 			entradaDeDados.close();
 			
