@@ -11,10 +11,6 @@ public class ReadProperties {
 	public static Properties loadProperties() {
 		Properties prop = new Properties();
 
-<<<<<<< HEAD
-=======
-		
->>>>>>> branch 'aula3' of git@github.com:javajdk2023/j10092024.git
 		ClassLoader classLoader = ReadProperties.class.getClassLoader();
 		
 		// Caminho para o arquivo de propriedades que está na pasta: /resources/application.properties
